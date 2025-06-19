@@ -5,7 +5,7 @@ module top_module (
     input      gas_tank_empty,
     output reg keep_driving  );
 
-    //using else will latch the valuable as a value
+    //using else will latch the variable as a value
     //only if the else statement set a value to reg
     always @(*) begin
         if (cpu_overheated)

@@ -6,8 +6,8 @@ module top_module (
     output reg up  ); 
 
     always @(*) begin
-        //You can see that we set all valuable in every cases, which will prevent latches (very important).
-        //Thus we do not need to reset valuable to 0 at the first line of the always block.
+        //You can see that we set all variable in every cases, which will prevent latches (very important).
+        //Thus we do not need to reset variable to 0 at the first line of the always block.
         case(scancode)
             16'he06b: begin
                 left = 1; down = 0; right = 0; up = 0;
