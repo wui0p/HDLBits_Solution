@@ -10,8 +10,8 @@ A personal collection of Verilog solutions to problems from HDLBits. All Verilog
 | 🟢 Getting Started                   | ✅ Completed     |
 | 🔤 Verilog Language                  | ✅ Completed     |
 | 🔧 Circuits                          | ✅ Completed    |
-| 📊 Verification: Reading Simulations| 🕐 In Progress   |
-| 🧪 Verification: Writing Testbenches| 🔜 Not Started   |
+| 📊 Verification: Reading Simulations| ✅ Completed   |
+| 🧪 Verification: Writing Testbenches| 🕐 In Progress   |
 | 🎓 CS450                            | 🔜 Not Started   |
 
 ## 📩 Contact
