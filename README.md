@@ -11,8 +11,8 @@ A personal collection of Verilog solutions to problems from HDLBits. All Verilog
 | 🔤 Verilog Language                  | ✅ Completed     |
 | 🔧 Circuits                          | ✅ Completed    |
 | 📊 Verification: Reading Simulations| ✅ Completed   |
-| 🧪 Verification: Writing Testbenches| 🕐 In Progress   |
-| 🎓 CS450                            | 🔜 Not Started   |
+| 🧪 Verification: Writing Testbenches| ✅ Completed   |
+| 🎓 CS450                            | 🕐 In Progress   |
 
 ## 📩 Contact
 Feel free to reach out if you have any questions! <br>
